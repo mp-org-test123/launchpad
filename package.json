@@ -3,8 +3,8 @@
   "description": "Doks child theme",
   "version": "0.4.3",
   "engines": {
-		"node": ">=16.15.0"
-	},
+    "node": ">=16.15.0"
+  },
   "browserslist": [
     "defaults"
   ],
@@ -42,7 +42,6 @@
     "@babel/core": "^7.17",
     "@babel/preset-env": "^7.17",
     "@fullhuman/postcss-purgecss": "^4.1",
-    "@hyas/doks": "^0.4",
     "auto-changelog": "^2.4.0",
     "autoprefixer": "^10.4",
     "bootstrap": "^5.1",
